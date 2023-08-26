@@ -1,7 +1,7 @@
 <script>
 
 const API_URL = "https://api.openweathermap.org/data/2.5/weather?q=London,on,ca&units=metric&APPID=";
-const API_KEY = "8028340e50625ff8fdab148493e3c032";
+const API_KEY = "PLACEHOLDER"; //add you API key here
 
 export default {
   data: () => ({
